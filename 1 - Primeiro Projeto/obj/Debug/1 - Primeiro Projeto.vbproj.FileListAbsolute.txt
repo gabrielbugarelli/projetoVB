@@ -1,0 +1,12 @@
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\bin\Debug\OlaMundoApp.exe.config
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\bin\Debug\OlaMundoApp.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\bin\Debug\OlaMundoApp.pdb
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\bin\Debug\OlaMundoApp.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\obj\Debug\1 - Primeiro Projeto.vbprojAssemblyReference.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.Frm_Principal01.resources
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.Resources.resources
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\obj\Debug\1 - Primeiro Projeto.vbproj.GenerateResource.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\obj\Debug\1 - Primeiro Projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.pdb

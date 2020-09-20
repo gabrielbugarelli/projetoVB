@@ -1,0 +1,12 @@
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\5 - laços de Repetição\bin\Debug\5 - laços de Repetição.exe.config
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\5 - laços de Repetição\bin\Debug\5 - laços de Repetição.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\5 - laços de Repetição\bin\Debug\5 - laços de Repetição.pdb
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\5 - laços de Repetição\bin\Debug\5 - laços de Repetição.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\5 - laços de Repetição\obj\Debug\5 - laços de Repetição.vbprojAssemblyReference.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\5 - laços de Repetição\obj\Debug\_5___laços_de_Repetição.Frm_Principal_05.resources
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\5 - laços de Repetição\obj\Debug\_5___laços_de_Repetição.Resources.resources
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\5 - laços de Repetição\obj\Debug\5 - laços de Repetição.vbproj.GenerateResource.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\5 - laços de Repetição\obj\Debug\5 - laços de Repetição.vbproj.CoreCompileInputs.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\5 - laços de Repetição\obj\Debug\5 - laços de Repetição.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\5 - laços de Repetição\obj\Debug\5 - laços de Repetição.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\5 - laços de Repetição\obj\Debug\5 - laços de Repetição.pdb

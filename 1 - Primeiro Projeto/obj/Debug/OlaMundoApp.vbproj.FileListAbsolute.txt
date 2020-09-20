@@ -1,0 +1,36 @@
+C:\Users\Caleum\AppData\Local\Temporary Projects\OlaMundoApp\bin\Debug\OlaMundoApp.exe.config
+C:\Users\Caleum\AppData\Local\Temporary Projects\OlaMundoApp\bin\Debug\OlaMundoApp.exe
+C:\Users\Caleum\AppData\Local\Temporary Projects\OlaMundoApp\bin\Debug\OlaMundoApp.pdb
+C:\Users\Caleum\AppData\Local\Temporary Projects\OlaMundoApp\bin\Debug\OlaMundoApp.xml
+C:\Users\Caleum\AppData\Local\Temporary Projects\OlaMundoApp\obj\Debug\OlaMundoApp.vbprojAssemblyReference.cache
+C:\Users\Caleum\AppData\Local\Temporary Projects\OlaMundoApp\obj\Debug\OlaMundoApp.Frm_Principal.resources
+C:\Users\Caleum\AppData\Local\Temporary Projects\OlaMundoApp\obj\Debug\OlaMundoApp.Resources.resources
+C:\Users\Caleum\AppData\Local\Temporary Projects\OlaMundoApp\obj\Debug\OlaMundoApp.vbproj.GenerateResource.cache
+C:\Users\Caleum\AppData\Local\Temporary Projects\OlaMundoApp\obj\Debug\OlaMundoApp.vbproj.CoreCompileInputs.cache
+C:\Users\Caleum\AppData\Local\Temporary Projects\OlaMundoApp\obj\Debug\OlaMundoApp.exe
+C:\Users\Caleum\AppData\Local\Temporary Projects\OlaMundoApp\obj\Debug\OlaMundoApp.xml
+C:\Users\Caleum\AppData\Local\Temporary Projects\OlaMundoApp\obj\Debug\OlaMundoApp.pdb
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\OlaMundoApp\OlaMundoApp\bin\Debug\OlaMundoApp.exe.config
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\OlaMundoApp\OlaMundoApp\bin\Debug\OlaMundoApp.exe
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\OlaMundoApp\OlaMundoApp\bin\Debug\OlaMundoApp.pdb
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\OlaMundoApp\OlaMundoApp\bin\Debug\OlaMundoApp.xml
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.vbprojAssemblyReference.cache
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.Frm_Principal.resources
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.Resources.resources
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.vbproj.GenerateResource.cache
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.vbproj.CoreCompileInputs.cache
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.exe
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.xml
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.pdb
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\bin\Debug\OlaMundoApp.exe.config
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\bin\Debug\OlaMundoApp.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\bin\Debug\OlaMundoApp.pdb
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\bin\Debug\OlaMundoApp.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.vbprojAssemblyReference.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.Frm_Principal.resources
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.Resources.resources
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.vbproj.GenerateResource.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.vbproj.CoreCompileInputs.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\OlaMundoApp\obj\Debug\OlaMundoApp.pdb

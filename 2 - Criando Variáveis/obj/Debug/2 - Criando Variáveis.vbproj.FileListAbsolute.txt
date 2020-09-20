@@ -1,0 +1,12 @@
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\2 - Criando Variáveis\bin\Debug\2 - Criando Variáveis.exe.config
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\2 - Criando Variáveis\bin\Debug\2 - Criando Variáveis.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\2 - Criando Variáveis\bin\Debug\2 - Criando Variáveis.pdb
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\2 - Criando Variáveis\bin\Debug\2 - Criando Variáveis.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.vbprojAssemblyReference.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\2 - Criando Variáveis\obj\Debug\_2___Criando_Variáveis.Resources.resources
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.vbproj.GenerateResource.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.vbproj.CoreCompileInputs.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\2 - Criando Variáveis\obj\Debug\2 - Criando Variáveis.pdb
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\2 - Criando Variáveis\obj\Debug\_2___Criando_Variáveis.Frm_Principal02.resources

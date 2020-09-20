@@ -1,0 +1,12 @@
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\4 -  Controle de Fluxo\bin\Debug\4 -  Controle de Fluxo.exe.config
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\4 -  Controle de Fluxo\bin\Debug\4 -  Controle de Fluxo.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\4 -  Controle de Fluxo\bin\Debug\4 -  Controle de Fluxo.pdb
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\4 -  Controle de Fluxo\bin\Debug\4 -  Controle de Fluxo.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\4 -  Controle de Fluxo\obj\Debug\4 -  Controle de Fluxo.vbprojAssemblyReference.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\4 -  Controle de Fluxo\obj\Debug\_4____Controle_de_Fluxo.Frm_Principal_04.resources
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\4 -  Controle de Fluxo\obj\Debug\_4____Controle_de_Fluxo.Resources.resources
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\4 -  Controle de Fluxo\obj\Debug\4 -  Controle de Fluxo.vbproj.GenerateResource.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\4 -  Controle de Fluxo\obj\Debug\4 -  Controle de Fluxo.vbproj.CoreCompileInputs.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\4 -  Controle de Fluxo\obj\Debug\4 -  Controle de Fluxo.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\4 -  Controle de Fluxo\obj\Debug\4 -  Controle de Fluxo.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\4 -  Controle de Fluxo\obj\Debug\4 -  Controle de Fluxo.pdb

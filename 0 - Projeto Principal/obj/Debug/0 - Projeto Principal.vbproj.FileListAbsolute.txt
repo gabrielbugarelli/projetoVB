@@ -1,0 +1,33 @@
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\0 - Projeto Principal.exe.config
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\0 - Projeto Principal.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\0 - Projeto Principal.pdb
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\0 - Projeto Principal.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\obj\Debug\0 - Projeto Principal.vbprojAssemblyReference.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\obj\Debug\_0___Projeto_Principal.Frm_Principal.resources
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\obj\Debug\_0___Projeto_Principal.Resources.resources
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\obj\Debug\0 - Projeto Principal.vbproj.GenerateResource.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\obj\Debug\0 - Projeto Principal.vbproj.CoreCompileInputs.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\obj\Debug\0 - Projeto Principal.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\obj\Debug\0 - Projeto Principal.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\obj\Debug\0 - Projeto Principal.pdb
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\2 - Criando Variáveis.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\3 - Manipulando Textos.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\4 -  Controle de Fluxo.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\5 - laços de Repetição.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\OlaMundoApp.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\2 - Criando Variáveis.pdb
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\2 - Criando Variáveis.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\2 - Criando Variáveis.exe.config
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\3 - Manipulando Textos.pdb
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\3 - Manipulando Textos.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\3 - Manipulando Textos.exe.config
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\4 -  Controle de Fluxo.pdb
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\4 -  Controle de Fluxo.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\4 -  Controle de Fluxo.exe.config
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\5 - laços de Repetição.pdb
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\5 - laços de Repetição.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\5 - laços de Repetição.exe.config
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\OlaMundoApp.pdb
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\OlaMundoApp.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\bin\Debug\OlaMundoApp.exe.config
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\0 - Projeto Principal\obj\Debug\0 - Projeto Principal.vbproj.CopyComplete

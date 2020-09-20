@@ -1,0 +1,12 @@
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\3 - Manipulando Textos\bin\Debug\3 - Manipulando Textos.exe.config
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\3 - Manipulando Textos\bin\Debug\3 - Manipulando Textos.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\3 - Manipulando Textos\bin\Debug\3 - Manipulando Textos.pdb
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\3 - Manipulando Textos\bin\Debug\3 - Manipulando Textos.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.vbprojAssemblyReference.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\3 - Manipulando Textos\obj\Debug\_3___Manipulando_Textos.Frm_Principal_03.resources
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\3 - Manipulando Textos\obj\Debug\_3___Manipulando_Textos.Resources.resources
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.vbproj.GenerateResource.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.vbproj.CoreCompileInputs.cache
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.exe
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.xml
+C:\Users\gabriel.mendes\Desktop\ESTUDOS\VB\Aula 1 pronta\OlaMundoApp\3 - Manipulando Textos\obj\Debug\3 - Manipulando Textos.pdb
